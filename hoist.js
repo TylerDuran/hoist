@@ -126,4 +126,5 @@ function makeDojo(name, students){
     }
     return dojo;
 }
+// output = dojo{'name': chicago, 'students' : 65, 'hiring' : true}, error on second console log, cannot change const.
 
